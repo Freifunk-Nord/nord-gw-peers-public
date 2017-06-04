@@ -1,0 +1,2 @@
+key "9ab51f77f82db6f5318f8c677f60722498bd38e2757c3bfd61ca2073fb176930";
+remote ipv4 "monitoring.freifunknord.de" port 10050;
